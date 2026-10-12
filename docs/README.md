@@ -10,26 +10,24 @@
 ### Markdown Documents
 | File | Description |
 |---|---|
-| `docs/01_pitch_deck.md` | Full pitch deck outline — 10 slides + timing guide + delivery tips |
-| `docs/02_technical_architecture.md` | DB schema, API endpoints, Socket.io events, routing engine, demo scenario |
-| `docs/04_alternative_projects.md` | Honest ranked analysis of all alternative project ideas |
+| `01_pitch_deck.md` | Full pitch deck outline — 10 slides + timing guide + delivery tips |
+| `02_technical_architecture.md` | DB schema, API endpoints, Socket.io events, routing engine, demo scenario |
+| `04_alternative_projects.md` | Honest ranked analysis of all alternative project ideas |
 
 ### Word Documents (.docx)
 | File | Description |
 |---|---|
-| `docs/docx/MediAlert_Network_Pitch_Deck.docx` | Fully formatted pitch deck document — 8 sections, tables, diagrams |
+| `docx/MediAlert_Network_Pitch_Deck.docx` | Fully formatted pitch deck document — 8 sections, tables, diagrams |
 
 ### PowerPoint (.pptx)
 | File | Description |
 |---|---|
-| `docs/pptx/MediAlert_Network_Pitch.pptx` | 9-slide presentation — cover, problem, solution, demo, technical, impact, competitive, roadmap, closing |
+| `pptx/MediAlert_Network_Pitch.pptx` | 9-slide presentation — cover, problem, solution, demo, technical, impact, competitive, roadmap, closing |
 
 ### Starter Codebase
 | File | Description |
 |---|---|
-| `codebase/README.md` | Full monorepo scaffold with shared types, routing engine, API routes, Next.js dashboard, React Native ambulance app |
-| `codebase/package.json` | Workspace root — run `npm install && npm run dev` |
-| `codebase/docker-compose.yml` | Local PostgreSQL + Redis setup |
+| `original_starter_snippets.md` | Full monorepo scaffold with shared types, routing engine, API routes, Next.js dashboard, React Native ambulance app |
 
 ---
 
