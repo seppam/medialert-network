@@ -1,3 +1,5 @@
+> Archived hackathon planning index. For the runnable project see the [root README](../README.md).
+
 # MediAlert Network — Project Files
 ## Garuda Hacks 7.0 | 🏥 Healthcare + 🛡️ Public Safety
 
@@ -23,30 +25,6 @@
 | File | Description |
 |---|---|
 | `pptx/MediAlert_Network_Pitch.pptx` | 9-slide presentation — cover, problem, solution, demo, technical, impact, competitive, roadmap, closing |
-
-### Starter Codebase
-| File | Description |
-|---|---|
-| `original_starter_snippets.md` | Full monorepo scaffold with shared types, routing engine, API routes, Next.js dashboard, React Native ambulance app |
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Install dependencies
-npm install
-
-# Start database + backend
-docker-compose up -d
-npm run db:seed
-
-# Start all apps
-npm run dev
-```
-
-- **Dashboard:** http://localhost:3000
-- **Backend API:** http://localhost:4000
 
 ---
 
